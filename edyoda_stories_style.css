@@ -1,0 +1,25 @@
+html{scroll-behavior: smooth;}
+
+main{width: 1000px;margin-left: auto;margin-right: auto;}
+table{width:100%;}
+header {padding: 16px 78px;background-color: #fff;margin: 0px;position: sticky;top: 0px;}
+#logo_m {width: 130px;font-size: 32px;color: #0084ff;margin: 0;}
+#logo_s{margin: 0;font-weight: 500;font-family:raleway; font-style: italic;font-size: 22px;}
+#drop {padding-left: 8px;color: #000;width:15px;text-align: left;}
+#Catagory{border: 0;}
+#main_web_b{background-color: #0084ff;border-radius: 20px;border: 1px solid #0084ff;font-size: 16px;}
+#main_web{text-decoration: none ;color: #fff;}
+#headings{color: #000;font-weight: 600;margin-top: 30px;}
+.item{width: 33.3%;}
+.imgd{width: 100%;height: 100%;border-top-left-radius: 5px;border-top-right-radius: 5px;}
+.imgs{height: 176px;width: 100%;}
+.author{color: #0096ff;size: 16px;font-style: italic;font-weight: 500;text-decoration: none;}
+.ac{padding-top: 4px;display: block;margin-top: 10px;}
+.tc{padding: 10px 24px;}
+.titel{font-size: 18px;text-align: left;margin: 0;font-weight: 600;}
+p{font-size: 14px;font-weight: 400;line-height: 1.43;color: rgba(0,0,0,.6);margin: 4px 0;}
+.date{color: rgba(0,0,0,0.7);size: 16px;font-weight: 300;}
+.catagories {padding: 6px 14px;width: auto;border-radius: 15px;border: 1px solid #0084ff;margin: 5px;background-color: #f2f6ff;}
+.filter_button{color: #0084ff;text-decoration:none;cursor: pointer;}
+footer{background-color: #172146;padding: 80px 10%;}
+.footer_data{color: #fff;width: 200px;padding-top: 0;}
